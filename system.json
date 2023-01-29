@@ -1,0 +1,27 @@
+{
+    "id": "altmonsterweek",
+    "version": "0.0.1",
+    "title": "Alt Monster/Week",
+    "description": "A simple game system for Evil Hat Productions Monster Of The Week",
+    "url": "https://github.com/Alexis-Grimm/AltMonsterWeek",
+    "license": "LICENSE.txt",
+    "author": "Alexis Grimm",
+    "esmodules": [
+        "modules/core.js"
+    ],
+    "styles": [
+
+    ],
+    "languages": [
+
+    ],
+    "compatibility": {
+        "minimum": "10",
+        "verified": "10.291",
+        "maximum": "10"
+    },
+    "gridDistance": 5,
+    "gridUnits": "ft",
+    "primaryTokenAttribute": "harm",
+    "manifest": ""
+}
