@@ -5,15 +5,24 @@
     "description": "A simple game system for Evil Hat Productions Monster Of The Week",
     "url": "https://github.com/Alexis-Grimm/AltMonsterWeek",
     "license": "LICENSE.txt",
-    "author": "Alexis Grimm",
+    "author": [ 
+        {
+            "name": "Alexis Grimm",
+            "url": "https://github.com/Alexis-Grimm"
+        }
+    ],
     "esmodules": [
-        "modules/core.js"
+        "modules/core.mjs"
     ],
     "styles": [
-
+        "styles/motw.css"
     ],
     "languages": [
-
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json"
+        }
     ],
     "compatibility": {
         "minimum": "10",
